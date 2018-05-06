@@ -2,3 +2,4 @@
 .vscode
 test.*
 .ipynb_checkpoints
+data

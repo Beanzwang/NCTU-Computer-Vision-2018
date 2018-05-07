@@ -3,3 +3,4 @@
 test.*
 .ipynb_checkpoints
 data
+libsvm

@@ -4,3 +4,5 @@ test.*
 .ipynb_checkpoints
 data
 libsvm
+*.npy
+*.txt
